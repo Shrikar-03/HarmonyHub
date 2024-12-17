@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-catamaran: Catamaran;
+  --font-lexend: Lexend;
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-13xl: 32px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-lgi: 19px;
+  --font-size-21xl: 40px;
+  --font-size-2xs: 11px;
+  --font-size-lg: 18px;
+  --font-size-33xl: 52px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-darkslategray-100: #0c3c61;
+  --color-gainsboro: #dee1e6;
+  --color-white: #fff;
+  --color-gray: #171a1f;
+  --color-lightsteelblue: #bbd6f2;
+  --color-silver: #bdc1ca;
+  --color-lightslategray: #9095a1;
+
+  /* Border radiuses */
+  --br-19xl: 38px;
+  --br-3xs-5: 9.5px;
+}
